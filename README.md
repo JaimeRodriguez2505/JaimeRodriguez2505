@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">Un apasionado desarrollador de Perú 🇵🇪</h3>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 <br/>
 
