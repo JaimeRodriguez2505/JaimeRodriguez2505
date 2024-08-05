@@ -160,6 +160,12 @@
   </a>
 </p>
 
+### Backend
+- **PHP**: [Official site](https://www.php.net)
+
+- ![PHP](https://skillicons.dev/icons?i=php) [PHP Official Site](https://www.php.net)
+
+
 
 <br/>
 
