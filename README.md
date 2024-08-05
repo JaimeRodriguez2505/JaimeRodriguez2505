@@ -36,36 +36,123 @@
 
 - Backend
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.php.net" target="_blank">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="https://spring.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://mui.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" />
   </a>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://www.cloudflare.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
   </a>
 </p>
 
 - Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=xd" />
+  </a>
+  <a href="https://www.jetbrains.com/idea" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
 
