@@ -1,12 +1,13 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jaimerodriguez.jaimerodriguez" />
 
+<div align="center">
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola+soy+Jaime+Rodr%C3%ADguez" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Un apasionado desarrollador de Perú 🇵🇪</h3>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
+</div>
 <br/>
 
 <div align="center">
