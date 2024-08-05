@@ -42,7 +42,7 @@
   🔭 
   <br><br>
 
-  - 🔭 I’m currently working on: Actualmente soy estudiante en <a href="https://tecsup.instructure.com" target="_blank">Tecsup</a>
+  - 🔭 I’m currently studying at <a href="https://tecsup.instructure.com" target="_blank">Tecsup</a>
   - 🌱 I’m currently learning **Devops**
   - 👨‍💻 All of my projects are available at [GitHub](https://github.com/JaimeRodriguez2505)
   - 💬 Ask me about **Java, Python, PHP and NodeJS**
