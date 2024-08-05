@@ -37,7 +37,7 @@
 - Backend
 <p align="left">
   <a href="https://www.php.net" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
   <a href="https://laravel.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" />
@@ -154,7 +154,12 @@
   <a href="https://www.linux.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
+
+  <a href="https://www.apple.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=apple" />
+  </a>
 </p>
+
 
 <br/>
 
